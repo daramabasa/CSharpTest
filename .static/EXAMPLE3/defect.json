@@ -1,0 +1,15 @@
+[
+  {
+    "startLine": 7,
+    "startCol": 35,
+    "endLine": 7,
+    "endCol": 39,
+    "severity": 2,
+    "suppressionHash": 5926024038297791431,
+    "ruleSet": "C# Code Style Rules",
+    "rule": "IDE0060",
+    "path": "E:\\sample-code\\staticTest\\StaticCSharpTest\\StaticCSharpTest\\Program.cs",
+    "message": "Remove unused parameter 'args'",
+    "eventGroup": []
+  }
+]

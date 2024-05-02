@@ -1,0 +1,48 @@
+{
+  "metrics": {
+    "10": 1.0,
+    "50": 0.0,
+    "60": 19.0,
+    "80": 1.0
+  },
+  "modules": [
+    {
+      "name": "StaticCSharpTest",
+      "metrics": {
+        "10010": 1.0,
+        "10050": 0.0
+      },
+      "files": [
+        {
+          "path": "E:\\sample-code\\staticTest\\StaticCSharpTest\\StaticCSharpTest\\Program.cs",
+          "sourceFileBodyHash": "0c73fe27993d495255bbef0a5184eeff",
+          "metrics": {
+            "20020": 19.0,
+            "20040": 1.0,
+            "20050": 1.0,
+            "20060": 5.0,
+            "20070": 3.0
+          }
+        }
+      ],
+      "functions": {
+        "E:\\sample-code\\staticTest\\StaticCSharpTest\\StaticCSharpTest\\Program.cs": [
+          {
+            "name": "Program.Main ( string[] )",
+            "signature": "void StaticCSharpTest.Program.Main(string[])",
+            "beginLine": 7,
+            "endLine": 18,
+            "metrics": {
+              "40010": 5.0,
+              "40020": 3.0,
+              "40040": 2.0,
+              "40070": 0.0,
+              "40080": 2.0,
+              "40100": 1.0
+            }
+          }
+        ]
+      }
+    }
+  ]
+}
